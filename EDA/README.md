@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project focuses on analyzing customer churn in a telecommunication company using the provided dataset. Customer churn, or the rate at which customers stop doing business with a company, is a critical metric for telecommunication companies as it directly impacts revenue and profitability. By understanding the factors influencing churn, companies can implement targeted strategies to improve customer retention and satisfaction.
+This project focuses on analyzing customer churn in a Orange telecomm company using the provided dataset. Customer churn, or the rate at which customers stop doing business with a company, is a critical metric for telecommunication companies as it directly impacts revenue and profitability. By understanding the factors influencing churn, companies can implement targeted strategies to improve customer retention and satisfaction.
 
 ## Dataset Overview
 
