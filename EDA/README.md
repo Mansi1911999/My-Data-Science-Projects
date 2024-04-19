@@ -1,3 +1,7 @@
+
+
+
+![images](https://github.com/Mansi1911999/My-Data-Science-Projects/assets/161967718/7aeb9eba-ab74-48ac-8bad-89a7ef610622)
 # Telecommunication Customer Churn Analysis
 
 ## Introduction
