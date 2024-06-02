@@ -1,5 +1,4 @@
 
-![preview](\Vehicle Sales Dashboard.png)
 # Project Description: Vehicle Sales Analysis Dashboard for Telangana Regional Transport Authority
 
 ## Project Overview
