@@ -1,5 +1,5 @@
 
-# Project Description: Vehicle Sales Analysis Dashboard for Telangana Regional Transport Authority
+# Project Description: Vehicle Sales Analysis Dashboard in Telangana 
 
 ## Project Overview
 The objective of this project is to develop an interactive and insightful dashboard using Power BI for analyzing vehicle sales data obtained from the Regional Transport Authority of Telangana. The dashboard enables stakeholders to understand various trends, distributions, and growth metrics related to vehicle sales across different categories, regions, and years.
