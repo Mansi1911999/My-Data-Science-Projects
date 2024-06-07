@@ -30,6 +30,14 @@ The dataset includes the following columns:
 ## Challenges
 This project is one of my unguided projects involving a big dataset with around 48 Csv files resulting in 52 lakh rows of dataset. Handling such a large amount of data was really challenging, so I combined the data and performed data cleaning and manipulation in Power Query. This process ensured the dataset was accurate and ready for analysis, which was crucial for generating meaningful insights and creating effective visualizations.
 
+## Skills Utilized
+
+- Power BI
+- Power Query Editor
+- DAX (Data Analysis Expressions)
+- Data Visualization
+- Interactive Dashboard Design
+
 ## Dashboard Components
 ### Yearly Sales Trend Bar Chart
 - **Title**: Annual Vehicle Sales Trend
