@@ -9,6 +9,7 @@
 
 ## Tools used
 - **Tableau**
+
 ## 📈 Key Insights
 
 - Out of **3,333** customers, the churn rate is approximately **14.49%**, indicating potential issues in customer retention.
